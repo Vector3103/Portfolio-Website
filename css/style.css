@@ -8805,7 +8805,7 @@ h1, h2, h3, h4, h5,
 
 .resume-wrap {
   width: 100%;
-  max-height: 390px;
+  max-height: 300px;
   margin-bottom: 30px;
   background: rgba(255, 255, 255, 0.1);
   padding: 30px;
